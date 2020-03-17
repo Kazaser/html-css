@@ -1,0 +1,54 @@
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Blog</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+	<div id="header">
+		<h1>Kazantsev Sergey</h1>
+		<h2>Frontend Developer</h2>
+		<p>
+			<a href="akeno@live.ru">akeno@live.ru</a>
+			<a href="magtkani.ru">magtkani.ru</a>
+		</p>
+	</div>
+
+	<div id="main">
+		<p>Я Казанцев Сергей занимаюсь Frontend разработкой около года. Начал с мини-сайтов для себя. После курсов на Хекслете начал работу веб-разработчиком</p>
+		<p>Готов к удаленной работе</p>
+
+		<h2>Опыт работы</h2>
+		<h4>Майкрософт</h4>
+		<ul>
+			<li>Работа</li>
+			<li>Работа</li>
+		</ul>
+
+		<h4>TOO Винная Баня</h4>
+		<ul>
+			<li>Verstka</li>
+			<li>Verstka</li>
+		</ul>
+		
+		<h2>Образование</h2>
+		<h4>Международный банковский институт</h4>
+		<p>Информационные системы</p>
+
+		<h2>Другие навыки и увлечения</h2>
+		<ul>
+			<li>Сноуборд</li>
+			<li>Лыжи</li>
+			<li>Плавание</li>
+		</ul>
+	</div>
+	
+	<div id="footer">
+		<p><b>Казанцев Сергей</b></p>
+		<p>Санкт-Петербург, Невский проспект 44, +7 888 888 88 88</p>
+	</div>
+
+
+</body>
+</html>
